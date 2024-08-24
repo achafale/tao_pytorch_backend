@@ -45,7 +45,7 @@ onnxruntime
 onnxsim
 opencv-python==4.8.0.74
 pccm
-pillow==9.5.0
+pillow==10.3.0
 Polygon3
 protobuf
 pyarmor
